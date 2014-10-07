@@ -5,10 +5,13 @@
 	color: #fff;
 }
 body {
-	background: url(intro-bg.jpg) no-repeat center center;
+	background: url(cafeimage.jpg) no-repeat center center;
 }
 .signup-form {
 	text-align: center;
-	color: #fff;
-
-}f
+	color:#999;
+}
+.services {
+	background:#9C8642;
+	opacity:0.89;
+}
